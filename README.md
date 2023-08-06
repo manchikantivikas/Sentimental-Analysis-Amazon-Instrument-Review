@@ -23,7 +23,8 @@ Two different optimizers were utilized to train the models:
 - **SGD (Stochastic Gradient Descent)**: A widely used method that updates the weights using only a subset of training data.
 
 ## Dataset
-The dataset consists of Amazon Musical Instrument reviews, which include textual reviews and corresponding sentiment labels.
+The dataset consists of Amazon Musical Instrument reviews. It's available for download on Kaggle. You can access it [here](https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews).
+
 
 ## Requirements
 - Python 3.8+
