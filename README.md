@@ -1,6 +1,6 @@
-# Sentimental-Analysis-Amazon-Instrument-Review
+# Sentimental-Analysis-Amazon-Instrument-Reviews
 
-# Sentiment Analysis on Amazon Musical Instrument Reviews
+
 
 This repository contains the implementation of sentimental analysis on the Amazon Musical Instrument dataset. The analysis is conducted using various deep learning models and loss functions to understand and predict customer sentiments.
 
