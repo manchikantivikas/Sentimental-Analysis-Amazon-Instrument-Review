@@ -37,6 +37,6 @@ The dataset consists of Amazon Musical Instrument reviews, which include textual
 For a comprehensive understanding of the methodologies used, experimental setups, results, insights, and detailed analysis, please refer to the project report attached in this repository.
 
 ## Future Work
-Experiment with different pre-processing techniques.
-Investigate other loss functions and optimizers.
-Explore ensemble methods.
+- Experiment with different pre-processing techniques.
+- Investigate other loss functions and optimizers.
+- Explore ensemble methods.
