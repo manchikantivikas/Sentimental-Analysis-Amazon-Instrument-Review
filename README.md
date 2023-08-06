@@ -35,7 +35,7 @@ The dataset consists of Amazon Musical Instrument reviews. It's available for do
 - NumPy
 
 ## Project Report
-For a comprehensive understanding of the methodologies used, experimental setups, results, insights, and detailed analysis, please refer to the project report attached in this repository.
+For a comprehensive understanding of the methodologies used, experimental setups, results, insights, and detailed analysis, please refer to the project report attached in this repository. [Download the Project Report](./Group16_project_report.pdf)
 
 ## Future Work
 - Experiment with different pre-processing techniques.
